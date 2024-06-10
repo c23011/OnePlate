@@ -33,8 +33,8 @@ Unity 2022.3.7f1
 - 比嘉瑚碧（デザイナー兼プログラマ）
 
 # ゲームスクリーンショット
-![OnePlate_Title](https://x.gd/hCKj5)
-![OnePlate_Arrangement](https://x.gd/aIQl4)
+![OnePlate_Title](https://github.com/c23011/OnePlate/blob/master/ScreenShot/OnePlate_Title.png)
+![OnePlate_Arrangement](https://github.com/c23011/OnePlate/blob/master/ScreenShot/ScreenShot_morituke.png)
 
 
 ## ProjectData/OnePlate/Assetフォルダに
