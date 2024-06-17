@@ -6,7 +6,7 @@
 - [ビルドデータ](https://drive.google.com/drive/u/0/folders/14BAHcyWSsg7v7vOC-DXeMgp7jM3YsLpN)
 
 ## ゲームジャンル
-### 料理シミュレーションゲーム
+料理シミュレーションゲーム
 
 ## 担当プログラムファイル
 - [食材を掴んで動かす](https://github.com/c23011/OnePlate/blob/master/ProjectData/OnePlate/Assets/Scripts/GripItemScript.cs)
