@@ -37,5 +37,5 @@ Unity 2022.3.7f1
 ![OnePlate_Arrangement](https://github.com/c23011/OnePlate/blob/master/ScreenShot/ScreenShot_morituke.png)
 
 
-### ProjectData/OnePlate/Assetフォルダ内に下記リンク先にあるデータのダウンロードをお願いします。
+ProjectData/OnePlate/Assetフォルダ内に下記リンク先にあるデータのダウンロードをお願いします。
 [GoogleDrive_OnePlate](https://drive.google.com/drive/u/0/folders/1qPDAlfafXY4wgQ7mIiYrk41L8oNZme0l)
